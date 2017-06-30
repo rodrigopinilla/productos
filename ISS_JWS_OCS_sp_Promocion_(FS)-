@@ -1,0 +1,1376 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?Siebel-Property-Set EscapeNames="true"?><PropertySet
+><TableOfContent
+ FullStructure="Y"
+ NumOutputObjects="10"
+><ISS_undATTR_undDEF
+ VOD_spcObject_spcNum="1-1MUEVN"
+ VOD_spcName="Velocidad Subida al 100%"
+ VOD_spcType="ISS_ATTR_DEF"
+ IntObjectName="ISS Attr Def ImpExp"
+></ISS_undATTR_undDEF
+><ISS_undATTR_undDEF
+ VOD_spcObject_spcNum="1-1MSXRB"
+ VOD_spcName="Velocidad Bajada al 100%"
+ VOD_spcType="ISS_ATTR_DEF"
+ IntObjectName="ISS Attr Def ImpExp"
+></ISS_undATTR_undDEF
+><ISS_undATTR_undDEF
+ VOD_spcObject_spcNum="1-AZ4XL"
+ VOD_spcName="Velocidad Bajada al 200%"
+ VOD_spcType="ISS_ATTR_DEF"
+ IntObjectName="ISS Attr Def ImpExp"
+></ISS_undATTR_undDEF
+><ISS_undATTR_undDEF
+ VOD_spcObject_spcNum="1-1MSXQJ"
+ VOD_spcName="Maxima Velocidad"
+ VOD_spcType="ISS_ATTR_DEF"
+ IntObjectName="ISS Attr Def ImpExp"
+></ISS_undATTR_undDEF
+><ISS_undATTR_undDEF
+ VOD_spcObject_spcNum="1-AZ4XV"
+ VOD_spcName="Velocidad Subida al 150%"
+ VOD_spcType="ISS_ATTR_DEF"
+ IntObjectName="ISS Attr Def ImpExp"
+></ISS_undATTR_undDEF
+><ISS_undATTR_undDEF
+ VOD_spcObject_spcNum="1-1MRPI5"
+ VOD_spcName="Redes Sociales"
+ VOD_spcType="ISS_ATTR_DEF"
+ IntObjectName="ISS Attr Def ImpExp"
+></ISS_undATTR_undDEF
+><ISS_undATTR_undDEF
+ VOD_spcObject_spcNum="1-AZ4Y5"
+ VOD_spcName="Velocidad Subida al 200%"
+ VOD_spcType="ISS_ATTR_DEF"
+ IntObjectName="ISS Attr Def ImpExp"
+></ISS_undATTR_undDEF
+><ISS_undATTR_undDEF
+ VOD_spcObject_spcNum="1-AZ4X9"
+ VOD_spcName="Velocidad Bajada al 150%"
+ VOD_spcType="ISS_ATTR_DEF"
+ IntObjectName="ISS Attr Def ImpExp"
+></ISS_undATTR_undDEF
+><ISS_undCLASS_undDEF
+ VOD_spcObject_spcNum="1-1MSXTY"
+ VOD_spcName="Data Mobile_Class"
+ VOD_spcType="ISS_CLASS_DEF"
+ IntObjectName="ISS Class Def ImpExp"
+></ISS_undCLASS_undDEF
+><ISS_undPROD_undDEF
+ VOD_spcObject_spcNum="1-2TWO9"
+ VOD_spcName="Datos 8 GB"
+ Vendor_spcName=""
+ Product_spcName="Datos 8 GB"
+ Org_spcName="Default Organization"
+ Product_spcType="Product"
+ VOD_spcType="ISS_PROD_DEF"
+ IntObjectName="ISS Prod Def ImpExp"
+></ISS_undPROD_undDEF
+></TableOfContent
+><PropertySet
+ ErrorContextIntComp=""
+ ErrorContextSearchSpec=""
+ OMErrorCode=""
+ OMErrorSymbol=""
+ ErrorCode="0x0"
+ ErrorSymbol=""
+ NumOutputObjects="1"
+><SiebelMessage
+ MessageId="1-EVUQU"
+ MessageType="Integration Object"
+ IntObjectName="ISS Attr Def ImpExp"
+ IntObjectFormat="Siebel Hierarchical"
+><ListOfISS_spcAttr_spcDef_spcImpExp
+><VOD_spcImpExp_spcBC
+ VOD_spcObject_spcNum="1-1MUEVN"
+ VOD_spcName="Velocidad Subida al 100%"
+ Object_spcId="1-1MUEVN"
+ VOD_spcType="ISS_ATTR_DEF"
+ Description=""
+><ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+></ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+><ListOfVOD_spcVersions_spcImpExp_spcBC
+><VOD_spcVersions_spcImpExp_spcBC
+ Active_spcFlg="Y"
+ Released_spcFlag="Y"
+ Comments="OCS JAR 20151216 -  Se adiciona el valor N/A."
+ Required_spcStart_spcDate="01/05/2017 10:40:49"
+ Required_spcEnd_spcDate=""
+ Version="4"
+ Version_spcId="1-3K1XP7G"
+></VOD_spcVersions_spcImpExp_spcBC
+></ListOfVOD_spcVersions_spcImpExp_spcBC
+><ListOfAttrDef_spcImpExp_spcBC
+><AttrDef_spcImpExp_spcBC
+ Data_spcType="Text"
+ Unit_spcof_spcMeasure=""
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Minimum_spcValue=""
+ Maximum_spcValue=""
+ Domain_spcType="ENUMERATED"
+ Orig_spcId="1-1MUEVP"
+></AttrDef_spcImpExp_spcBC
+></ListOfAttrDef_spcImpExp_spcBC
+><ListOfAttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="128 Kbps"
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-1MUEVT"
+ Sequence="4"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="0 Kbps"
+ First_spcVersion="4"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-GJROR"
+ Sequence="6"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="200 Kbps"
+ First_spcVersion="2"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-1UH0ZZ"
+ Sequence="5"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="32 Kbps"
+ First_spcVersion="3"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-1MUEVQ"
+ Sequence="2"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="64 Kbps"
+ First_spcVersion="3"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-1MUEVR"
+ Sequence="3"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="N/A"
+ First_spcVersion="3"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-2ADZS2"
+ Sequence="1"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcImpExp_spcBC
+></VOD_spcImpExp_spcBC
+></ListOfISS_spcAttr_spcDef_spcImpExp
+></SiebelMessage
+></PropertySet
+><PropertySet
+ ErrorContextIntComp=""
+ ErrorContextSearchSpec=""
+ OMErrorCode=""
+ OMErrorSymbol=""
+ ErrorCode="0x0"
+ ErrorSymbol=""
+ NumOutputObjects="1"
+><SiebelMessage
+ MessageId="1-EVUQV"
+ MessageType="Integration Object"
+ IntObjectName="ISS Attr Def ImpExp"
+ IntObjectFormat="Siebel Hierarchical"
+><ListOfISS_spcAttr_spcDef_spcImpExp
+><VOD_spcImpExp_spcBC
+ VOD_spcObject_spcNum="1-1MSXRB"
+ VOD_spcName="Velocidad Bajada al 100%"
+ Object_spcId="1-1MSXRB"
+ VOD_spcType="ISS_ATTR_DEF"
+ Description=""
+><ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+></ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+><ListOfVOD_spcVersions_spcImpExp_spcBC
+><VOD_spcVersions_spcImpExp_spcBC
+ Active_spcFlg="Y"
+ Released_spcFlag="Y"
+ Comments="OCS JAR 20151216 -  Se adiciona el valor N/A."
+ Required_spcStart_spcDate="01/05/2017 10:40:49"
+ Required_spcEnd_spcDate=""
+ Version="4"
+ Version_spcId="1-3K1XP6D"
+></VOD_spcVersions_spcImpExp_spcBC
+></ListOfVOD_spcVersions_spcImpExp_spcBC
+><ListOfAttrDef_spcImpExp_spcBC
+><AttrDef_spcImpExp_spcBC
+ Data_spcType="Text"
+ Unit_spcof_spcMeasure=""
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Minimum_spcValue=""
+ Maximum_spcValue=""
+ Domain_spcType="ENUMERATED"
+ Orig_spcId="1-1MSXRD"
+></AttrDef_spcImpExp_spcBC
+></ListOfAttrDef_spcImpExp_spcBC
+><ListOfAttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="32 Kbps"
+ First_spcVersion="3"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-1MSXRH"
+ Sequence="2"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="64 Kbps"
+ First_spcVersion="3"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-1MSXRJ"
+ Sequence="3"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="200 Kbps"
+ First_spcVersion="3"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-1MSXRL"
+ Sequence="4"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="128 Kbps"
+ First_spcVersion="3"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-1MSXT5"
+ Sequence="5"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="N/A"
+ First_spcVersion="3"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-2ADZPU"
+ Sequence="1"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="0Kbps"
+ First_spcVersion="4"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-GJQ53"
+ Sequence="6"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcImpExp_spcBC
+></VOD_spcImpExp_spcBC
+></ListOfISS_spcAttr_spcDef_spcImpExp
+></SiebelMessage
+></PropertySet
+><PropertySet
+ ErrorContextIntComp=""
+ ErrorContextSearchSpec=""
+ OMErrorCode=""
+ OMErrorSymbol=""
+ ErrorCode="0x0"
+ ErrorSymbol=""
+ NumOutputObjects="1"
+><SiebelMessage
+ MessageId="1-EVUQW"
+ MessageType="Integration Object"
+ IntObjectName="ISS Attr Def ImpExp"
+ IntObjectFormat="Siebel Hierarchical"
+><ListOfISS_spcAttr_spcDef_spcImpExp
+><VOD_spcImpExp_spcBC
+ VOD_spcObject_spcNum="1-AZ4XL"
+ VOD_spcName="Velocidad Bajada al 200%"
+ Object_spcId="1-1NR7JW5"
+ VOD_spcType="ISS_ATTR_DEF"
+ Description=""
+><ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+></ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+><ListOfVOD_spcVersions_spcImpExp_spcBC
+><VOD_spcVersions_spcImpExp_spcBC
+ Active_spcFlg="Y"
+ Released_spcFlag="Y"
+ Comments=""
+ Required_spcStart_spcDate="01/05/2017 10:40:49"
+ Required_spcEnd_spcDate=""
+ Version="2"
+ Version_spcId="1-3K1XP93"
+></VOD_spcVersions_spcImpExp_spcBC
+></ListOfVOD_spcVersions_spcImpExp_spcBC
+><ListOfAttrDef_spcImpExp_spcBC
+><AttrDef_spcImpExp_spcBC
+ Data_spcType="Text"
+ Unit_spcof_spcMeasure=""
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Minimum_spcValue=""
+ Maximum_spcValue=""
+ Domain_spcType="ENUMERATED"
+ Orig_spcId="1-AZ4XN"
+></AttrDef_spcImpExp_spcBC
+></ListOfAttrDef_spcImpExp_spcBC
+><ListOfAttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="N/A"
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-AZ4XO"
+ Sequence="1"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="32 Kbps"
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-AZ4XP"
+ Sequence="2"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="64 Kbps"
+ First_spcVersion="2"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-G6MUX"
+ Sequence="3"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcImpExp_spcBC
+></VOD_spcImpExp_spcBC
+></ListOfISS_spcAttr_spcDef_spcImpExp
+></SiebelMessage
+></PropertySet
+><PropertySet
+ ErrorContextIntComp=""
+ ErrorContextSearchSpec=""
+ OMErrorCode=""
+ OMErrorSymbol=""
+ ErrorCode="0x0"
+ ErrorSymbol=""
+ NumOutputObjects="1"
+><SiebelMessage
+ MessageId="1-EVUQX"
+ MessageType="Integration Object"
+ IntObjectName="ISS Attr Def ImpExp"
+ IntObjectFormat="Siebel Hierarchical"
+><ListOfISS_spcAttr_spcDef_spcImpExp
+><VOD_spcImpExp_spcBC
+ VOD_spcObject_spcNum="1-1MSXQJ"
+ VOD_spcName="Maxima Velocidad"
+ Object_spcId="1-1MSXQJ"
+ VOD_spcType="ISS_ATTR_DEF"
+ Description=""
+><ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+></ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+><ListOfVOD_spcVersions_spcImpExp_spcBC
+><VOD_spcVersions_spcImpExp_spcBC
+ Active_spcFlg="Y"
+ Released_spcFlag="Y"
+ Comments="OCS JAR 20151216 -  Se adiciona el valor N/A."
+ Required_spcStart_spcDate="01/05/2017 10:40:49"
+ Required_spcEnd_spcDate=""
+ Version="3"
+ Version_spcId="1-3K1XP5X"
+></VOD_spcVersions_spcImpExp_spcBC
+></ListOfVOD_spcVersions_spcImpExp_spcBC
+><ListOfAttrDef_spcImpExp_spcBC
+><AttrDef_spcImpExp_spcBC
+ Data_spcType="Text"
+ Unit_spcof_spcMeasure=""
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Minimum_spcValue=""
+ Maximum_spcValue=""
+ Domain_spcType="ENUMERATED"
+ Orig_spcId="1-1MSXQL"
+></AttrDef_spcImpExp_spcBC
+></ListOfAttrDef_spcImpExp_spcBC
+><ListOfAttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="2 Mbps"
+ First_spcVersion="2"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-1MSXQP"
+ Sequence="2"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="8 Mbps"
+ First_spcVersion="2"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-1MSXQR"
+ Sequence="3"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="N/A"
+ First_spcVersion="2"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-2ABX7I"
+ Sequence="1"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="12 Mbps"
+ First_spcVersion="3"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-GQ4E3"
+ Sequence="4"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcImpExp_spcBC
+></VOD_spcImpExp_spcBC
+></ListOfISS_spcAttr_spcDef_spcImpExp
+></SiebelMessage
+></PropertySet
+><PropertySet
+ ErrorContextIntComp=""
+ ErrorContextSearchSpec=""
+ OMErrorCode=""
+ OMErrorSymbol=""
+ ErrorCode="0x0"
+ ErrorSymbol=""
+ NumOutputObjects="1"
+><SiebelMessage
+ MessageId="1-EVUQY"
+ MessageType="Integration Object"
+ IntObjectName="ISS Attr Def ImpExp"
+ IntObjectFormat="Siebel Hierarchical"
+><ListOfISS_spcAttr_spcDef_spcImpExp
+><VOD_spcImpExp_spcBC
+ VOD_spcObject_spcNum="1-AZ4XV"
+ VOD_spcName="Velocidad Subida al 150%"
+ Object_spcId="1-1NR7JX0"
+ VOD_spcType="ISS_ATTR_DEF"
+ Description=""
+><ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+></ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+><ListOfVOD_spcVersions_spcImpExp_spcBC
+><VOD_spcVersions_spcImpExp_spcBC
+ Active_spcFlg="Y"
+ Released_spcFlag="Y"
+ Comments=""
+ Required_spcStart_spcDate="08/02/2016 19:11:10"
+ Required_spcEnd_spcDate=""
+ Version="1"
+ Version_spcId="1-1NR7K7T"
+></VOD_spcVersions_spcImpExp_spcBC
+></ListOfVOD_spcVersions_spcImpExp_spcBC
+><ListOfAttrDef_spcImpExp_spcBC
+><AttrDef_spcImpExp_spcBC
+ Data_spcType="Text"
+ Unit_spcof_spcMeasure=""
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Minimum_spcValue=""
+ Maximum_spcValue=""
+ Domain_spcType="ENUMERATED"
+ Orig_spcId="1-AZ4XX"
+></AttrDef_spcImpExp_spcBC
+></ListOfAttrDef_spcImpExp_spcBC
+><ListOfAttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="N/A"
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-AZ4XY"
+ Sequence="1"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="0 Kbps"
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-AZ4XZ"
+ Sequence="2"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcImpExp_spcBC
+></VOD_spcImpExp_spcBC
+></ListOfISS_spcAttr_spcDef_spcImpExp
+></SiebelMessage
+></PropertySet
+><PropertySet
+ ErrorContextIntComp=""
+ ErrorContextSearchSpec=""
+ OMErrorCode=""
+ OMErrorSymbol=""
+ ErrorCode="0x0"
+ ErrorSymbol=""
+ NumOutputObjects="1"
+><SiebelMessage
+ MessageId="1-EVUQZ"
+ MessageType="Integration Object"
+ IntObjectName="ISS Attr Def ImpExp"
+ IntObjectFormat="Siebel Hierarchical"
+><ListOfISS_spcAttr_spcDef_spcImpExp
+><VOD_spcImpExp_spcBC
+ VOD_spcObject_spcNum="1-1MRPI5"
+ VOD_spcName="Redes Sociales"
+ Object_spcId="1-1MRPI5"
+ VOD_spcType="ISS_ATTR_DEF"
+ Description=""
+><ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+></ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+><ListOfVOD_spcVersions_spcImpExp_spcBC
+><VOD_spcVersions_spcImpExp_spcBC
+ Active_spcFlg="Y"
+ Released_spcFlag="Y"
+ Comments="OCS JAR 20151216 -  Se adiciona el valor N/A."
+ Required_spcStart_spcDate="12/16/2015 19:32:26"
+ Required_spcEnd_spcDate=""
+ Version="2"
+ Version_spcId="1-2ADZPC"
+></VOD_spcVersions_spcImpExp_spcBC
+></ListOfVOD_spcVersions_spcImpExp_spcBC
+><ListOfAttrDef_spcImpExp_spcBC
+><AttrDef_spcImpExp_spcBC
+ Data_spcType="Text"
+ Unit_spcof_spcMeasure=""
+ First_spcVersion="2"
+ Last_spcVersion="999999999"
+ Minimum_spcValue=""
+ Maximum_spcValue=""
+ Domain_spcType="ENUMERATED"
+ Orig_spcId="1-1MRPI7"
+></AttrDef_spcImpExp_spcBC
+></ListOfAttrDef_spcImpExp_spcBC
+><ListOfAttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="N"
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-1MRPIB"
+ Sequence="2"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="Y"
+ First_spcVersion="2"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-1MSXQ1"
+ Sequence="3"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="N/A"
+ First_spcVersion="2"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-2ADZP4"
+ Sequence="1"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcImpExp_spcBC
+></VOD_spcImpExp_spcBC
+></ListOfISS_spcAttr_spcDef_spcImpExp
+></SiebelMessage
+></PropertySet
+><PropertySet
+ ErrorContextIntComp=""
+ ErrorContextSearchSpec=""
+ OMErrorCode=""
+ OMErrorSymbol=""
+ ErrorCode="0x0"
+ ErrorSymbol=""
+ NumOutputObjects="1"
+><SiebelMessage
+ MessageId="1-EVUR0"
+ MessageType="Integration Object"
+ IntObjectName="ISS Attr Def ImpExp"
+ IntObjectFormat="Siebel Hierarchical"
+><ListOfISS_spcAttr_spcDef_spcImpExp
+><VOD_spcImpExp_spcBC
+ VOD_spcObject_spcNum="1-AZ4Y5"
+ VOD_spcName="Velocidad Subida al 200%"
+ Object_spcId="1-1NR7JXV"
+ VOD_spcType="ISS_ATTR_DEF"
+ Description=""
+><ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+></ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+><ListOfVOD_spcVersions_spcImpExp_spcBC
+><VOD_spcVersions_spcImpExp_spcBC
+ Active_spcFlg="Y"
+ Released_spcFlag="Y"
+ Comments=""
+ Required_spcStart_spcDate="01/05/2017 10:40:49"
+ Required_spcEnd_spcDate=""
+ Version="2"
+ Version_spcId="1-3K1XP9N"
+></VOD_spcVersions_spcImpExp_spcBC
+></ListOfVOD_spcVersions_spcImpExp_spcBC
+><ListOfAttrDef_spcImpExp_spcBC
+><AttrDef_spcImpExp_spcBC
+ Data_spcType="Text"
+ Unit_spcof_spcMeasure=""
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Minimum_spcValue=""
+ Maximum_spcValue=""
+ Domain_spcType="ENUMERATED"
+ Orig_spcId="1-AZ4Y7"
+></AttrDef_spcImpExp_spcBC
+></ListOfAttrDef_spcImpExp_spcBC
+><ListOfAttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="N/A"
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-AZ4Y8"
+ Sequence="1"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="32 Kbps"
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-AZ4Y9"
+ Sequence="2"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="64 Kbps"
+ First_spcVersion="2"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-G6MUW"
+ Sequence="3"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcImpExp_spcBC
+></VOD_spcImpExp_spcBC
+></ListOfISS_spcAttr_spcDef_spcImpExp
+></SiebelMessage
+></PropertySet
+><PropertySet
+ ErrorContextIntComp=""
+ ErrorContextSearchSpec=""
+ OMErrorCode=""
+ OMErrorSymbol=""
+ ErrorCode="0x0"
+ ErrorSymbol=""
+ NumOutputObjects="1"
+><SiebelMessage
+ MessageId="1-EVUR1"
+ MessageType="Integration Object"
+ IntObjectName="ISS Attr Def ImpExp"
+ IntObjectFormat="Siebel Hierarchical"
+><ListOfISS_spcAttr_spcDef_spcImpExp
+><VOD_spcImpExp_spcBC
+ VOD_spcObject_spcNum="1-AZ4X9"
+ VOD_spcName="Velocidad Bajada al 150%"
+ Object_spcId="1-1NR7JY6"
+ VOD_spcType="ISS_ATTR_DEF"
+ Description=""
+><ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+></ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+><ListOfVOD_spcVersions_spcImpExp_spcBC
+><VOD_spcVersions_spcImpExp_spcBC
+ Active_spcFlg="Y"
+ Released_spcFlag="Y"
+ Comments=""
+ Required_spcStart_spcDate="08/02/2016 19:11:10"
+ Required_spcEnd_spcDate=""
+ Version="1"
+ Version_spcId="1-1NR7K8Q"
+></VOD_spcVersions_spcImpExp_spcBC
+></ListOfVOD_spcVersions_spcImpExp_spcBC
+><ListOfAttrDef_spcImpExp_spcBC
+><AttrDef_spcImpExp_spcBC
+ Data_spcType="Text"
+ Unit_spcof_spcMeasure=""
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Minimum_spcValue=""
+ Maximum_spcValue=""
+ Domain_spcType="ENUMERATED"
+ Orig_spcId="1-AZ4XB"
+></AttrDef_spcImpExp_spcBC
+></ListOfAttrDef_spcImpExp_spcBC
+><ListOfAttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="0 Kbps"
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-AZ4XC"
+ Sequence="2"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="32 Kbps"
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-AZ4XD"
+ Sequence="3"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+><AttrDef_spcValues_spcImpExp_spcBC
+ Value="N/A"
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Orig_spcId="1-AZ4XE"
+ Sequence="1"
+><ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcLang_spcImpExp_spcBC
+></AttrDef_spcValues_spcImpExp_spcBC
+></ListOfAttrDef_spcValues_spcImpExp_spcBC
+></VOD_spcImpExp_spcBC
+></ListOfISS_spcAttr_spcDef_spcImpExp
+></SiebelMessage
+></PropertySet
+><PropertySet
+ ErrorContextIntComp=""
+ ErrorContextSearchSpec=""
+ OMErrorCode=""
+ OMErrorSymbol=""
+ ErrorCode="0x0"
+ ErrorSymbol=""
+ NumOutputObjects="1"
+><SiebelMessage
+ MessageId="1-EVUR2"
+ MessageType="Integration Object"
+ IntObjectName="ISS Class Def ImpExp"
+ IntObjectFormat="Siebel Hierarchical"
+><ListOfISS_spcClass_spcDef_spcImpExp
+><VOD_spcImpExp_spcBC
+ VOD_spcObject_spcNum="1-1MSXTY"
+ VOD_spcName="Data Mobile_Class"
+ Object_spcId="1-1MSXTY"
+ VOD_spcType="ISS_CLASS_DEF"
+ Description=""
+><ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+></ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+><ListOfVOD_spcVersions_spcImpExp_spcBC
+><VOD_spcVersions_spcImpExp_spcBC
+ Active_spcFlg="Y"
+ Released_spcFlag="Y"
+ Comments="OCS JAR 20160328 - Se adiciona interface."
+ Required_spcStart_spcDate="08/02/2016 19:11:10"
+ Required_spcEnd_spcDate=""
+ Version="9"
+ Version_spcId="1-1NR7K5S"
+></VOD_spcVersions_spcImpExp_spcBC
+></ListOfVOD_spcVersions_spcImpExp_spcBC
+><ListOfObject_spcDef_spcImpExp_spcBC
+><Object_spcDef_spcImpExp_spcBC
+ Ancestor_spcVersion=""
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Name_spcVer="0"
+ Ancestor_spcName=""
+ Ancestor_spcObj_spcNum=""
+ Description_spcVer=""
+ Post_spcPick_spcCD=""
+ XA_spcIntegration_spcId=""
+ Parametric_spcSearch_spcFlg=""
+ Orig_spcId="1-1MSXU0"
+ Pre_spcPick_spcCD=""
+><ListOfObject_spcDef_spcLang_spcImpExp_spcBC
+></ListOfObject_spcDef_spcLang_spcImpExp_spcBC
+></Object_spcDef_spcImpExp_spcBC
+></ListOfObject_spcDef_spcImpExp_spcBC
+><ListOfObject_spcArrt_spcImpExp_spcBC
+><Object_spcArrt_spcImpExp_spcBC
+ PostPick_spcCD=""
+ UOM_spcCD=""
+ Local_spcName="Redes Sociales"
+ First_spcVersion="6"
+ Last_spcVersion="999999999"
+ Attr_spcDef_spcVer=""
+ QBE_spcValidation_spcSpec=""
+ Eligibility_spcProcedure_spcName=""
+ Min_spcVal=""
+ Attr_spcDef_spcObj_spcNum="1-1MRPI5"
+ Default_spcVal=""
+ Read_spcOnly_spcFlg="N"
+ Asset_spcFlg="Y"
+ Attr_spcDef_spcName="Redes Sociales"
+ Rejected_spcVale=""
+ XA_spcIntegration_spcId=""
+ Domain_spcType=""
+ Vector_spcFlg="N"
+ Parametric_spcSearch_spcFlg=""
+ Orig_spcId="1-1MSXU2"
+ Max_spcVal=""
+ Increment_spcVal=""
+ Hidden_spcFlg="N"
+ Description=""
+ Required_spcFlg="N"
+ Sequence=""
+ PrePick_spcCD=""
+><ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></Object_spcArrt_spcImpExp_spcBC
+><Object_spcArrt_spcImpExp_spcBC
+ PostPick_spcCD=""
+ UOM_spcCD=""
+ Local_spcName="Velocidad Bajada al 100%"
+ First_spcVersion="6"
+ Last_spcVersion="999999999"
+ Attr_spcDef_spcVer=""
+ QBE_spcValidation_spcSpec=""
+ Eligibility_spcProcedure_spcName=""
+ Min_spcVal=""
+ Attr_spcDef_spcObj_spcNum="1-1MSXRB"
+ Default_spcVal=""
+ Read_spcOnly_spcFlg="N"
+ Asset_spcFlg="Y"
+ Attr_spcDef_spcName="Velocidad Bajada al 100%"
+ Rejected_spcVale=""
+ XA_spcIntegration_spcId=""
+ Domain_spcType=""
+ Vector_spcFlg="N"
+ Parametric_spcSearch_spcFlg=""
+ Orig_spcId="1-1MSXU5"
+ Max_spcVal=""
+ Increment_spcVal=""
+ Hidden_spcFlg="N"
+ Description=""
+ Required_spcFlg="N"
+ Sequence=""
+ PrePick_spcCD=""
+><ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></Object_spcArrt_spcImpExp_spcBC
+><Object_spcArrt_spcImpExp_spcBC
+ PostPick_spcCD=""
+ UOM_spcCD=""
+ Local_spcName="Velocidad Subida al 100%"
+ First_spcVersion="6"
+ Last_spcVersion="999999999"
+ Attr_spcDef_spcVer=""
+ QBE_spcValidation_spcSpec=""
+ Eligibility_spcProcedure_spcName=""
+ Min_spcVal=""
+ Attr_spcDef_spcObj_spcNum="1-1MUEVN"
+ Default_spcVal=""
+ Read_spcOnly_spcFlg="N"
+ Asset_spcFlg="Y"
+ Attr_spcDef_spcName="Velocidad Subida al 100%"
+ Rejected_spcVale=""
+ XA_spcIntegration_spcId=""
+ Domain_spcType=""
+ Vector_spcFlg="N"
+ Parametric_spcSearch_spcFlg=""
+ Orig_spcId="1-1MUEXS"
+ Max_spcVal=""
+ Increment_spcVal=""
+ Hidden_spcFlg="N"
+ Description=""
+ Required_spcFlg="N"
+ Sequence=""
+ PrePick_spcCD=""
+><ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></Object_spcArrt_spcImpExp_spcBC
+><Object_spcArrt_spcImpExp_spcBC
+ PostPick_spcCD=""
+ UOM_spcCD=""
+ Local_spcName="Maxima Velocidad"
+ First_spcVersion="6"
+ Last_spcVersion="999999999"
+ Attr_spcDef_spcVer=""
+ QBE_spcValidation_spcSpec=""
+ Eligibility_spcProcedure_spcName=""
+ Min_spcVal=""
+ Attr_spcDef_spcObj_spcNum="1-1MSXQJ"
+ Default_spcVal=""
+ Read_spcOnly_spcFlg="N"
+ Asset_spcFlg="Y"
+ Attr_spcDef_spcName="Maxima Velocidad"
+ Rejected_spcVale=""
+ XA_spcIntegration_spcId=""
+ Domain_spcType=""
+ Vector_spcFlg="N"
+ Parametric_spcSearch_spcFlg=""
+ Orig_spcId="1-1MUEYX"
+ Max_spcVal=""
+ Increment_spcVal=""
+ Hidden_spcFlg="N"
+ Description=""
+ Required_spcFlg="N"
+ Sequence=""
+ PrePick_spcCD=""
+><ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></Object_spcArrt_spcImpExp_spcBC
+><Object_spcArrt_spcImpExp_spcBC
+ PostPick_spcCD=""
+ UOM_spcCD=""
+ Local_spcName="Velocidad Bajada al 150%"
+ First_spcVersion="9"
+ Last_spcVersion="999999999"
+ Attr_spcDef_spcVer=""
+ QBE_spcValidation_spcSpec=""
+ Eligibility_spcProcedure_spcName=""
+ Min_spcVal=""
+ Attr_spcDef_spcObj_spcNum="1-AZ4X9"
+ Default_spcVal=""
+ Read_spcOnly_spcFlg="N"
+ Asset_spcFlg="Y"
+ Attr_spcDef_spcName="Velocidad Bajada al 150%"
+ Rejected_spcVale=""
+ XA_spcIntegration_spcId=""
+ Domain_spcType=""
+ Vector_spcFlg="N"
+ Parametric_spcSearch_spcFlg=""
+ Orig_spcId="1-AZ4YF"
+ Max_spcVal=""
+ Increment_spcVal=""
+ Hidden_spcFlg="N"
+ Description=""
+ Required_spcFlg="N"
+ Sequence=""
+ PrePick_spcCD=""
+><ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></Object_spcArrt_spcImpExp_spcBC
+><Object_spcArrt_spcImpExp_spcBC
+ PostPick_spcCD=""
+ UOM_spcCD=""
+ Local_spcName="Velocidad Bajada al 200%"
+ First_spcVersion="9"
+ Last_spcVersion="999999999"
+ Attr_spcDef_spcVer=""
+ QBE_spcValidation_spcSpec=""
+ Eligibility_spcProcedure_spcName=""
+ Min_spcVal=""
+ Attr_spcDef_spcObj_spcNum="1-AZ4XL"
+ Default_spcVal=""
+ Read_spcOnly_spcFlg="N"
+ Asset_spcFlg="Y"
+ Attr_spcDef_spcName="Velocidad Bajada al 200%"
+ Rejected_spcVale=""
+ XA_spcIntegration_spcId=""
+ Domain_spcType=""
+ Vector_spcFlg="N"
+ Parametric_spcSearch_spcFlg=""
+ Orig_spcId="1-AZ4YG"
+ Max_spcVal=""
+ Increment_spcVal=""
+ Hidden_spcFlg="N"
+ Description=""
+ Required_spcFlg="N"
+ Sequence=""
+ PrePick_spcCD=""
+><ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></Object_spcArrt_spcImpExp_spcBC
+><Object_spcArrt_spcImpExp_spcBC
+ PostPick_spcCD=""
+ UOM_spcCD=""
+ Local_spcName="Velocidad Subida al 200%"
+ First_spcVersion="9"
+ Last_spcVersion="999999999"
+ Attr_spcDef_spcVer=""
+ QBE_spcValidation_spcSpec=""
+ Eligibility_spcProcedure_spcName=""
+ Min_spcVal=""
+ Attr_spcDef_spcObj_spcNum="1-AZ4Y5"
+ Default_spcVal=""
+ Read_spcOnly_spcFlg="N"
+ Asset_spcFlg="Y"
+ Attr_spcDef_spcName="Velocidad Subida al 200%"
+ Rejected_spcVale=""
+ XA_spcIntegration_spcId=""
+ Domain_spcType=""
+ Vector_spcFlg="N"
+ Parametric_spcSearch_spcFlg=""
+ Orig_spcId="1-AZ4YH"
+ Max_spcVal=""
+ Increment_spcVal=""
+ Hidden_spcFlg="N"
+ Description=""
+ Required_spcFlg="N"
+ Sequence=""
+ PrePick_spcCD=""
+><ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></Object_spcArrt_spcImpExp_spcBC
+><Object_spcArrt_spcImpExp_spcBC
+ PostPick_spcCD=""
+ UOM_spcCD=""
+ Local_spcName="Velocidad Subida al 150%"
+ First_spcVersion="9"
+ Last_spcVersion="999999999"
+ Attr_spcDef_spcVer=""
+ QBE_spcValidation_spcSpec=""
+ Eligibility_spcProcedure_spcName=""
+ Min_spcVal=""
+ Attr_spcDef_spcObj_spcNum="1-AZ4XV"
+ Default_spcVal=""
+ Read_spcOnly_spcFlg="N"
+ Asset_spcFlg="Y"
+ Attr_spcDef_spcName="Velocidad Subida al 150%"
+ Rejected_spcVale=""
+ XA_spcIntegration_spcId=""
+ Domain_spcType=""
+ Vector_spcFlg="N"
+ Parametric_spcSearch_spcFlg=""
+ Orig_spcId="1-AZ4YI"
+ Max_spcVal=""
+ Increment_spcVal=""
+ Hidden_spcFlg="N"
+ Description=""
+ Required_spcFlg="N"
+ Sequence=""
+ PrePick_spcCD=""
+><ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></ListOfObject_spcArrt_spcLang_spcImpExp_spcBC
+></Object_spcArrt_spcImpExp_spcBC
+></ListOfObject_spcArrt_spcImpExp_spcBC
+><ListOfObject_spcAttr_spcDomain_spcImpExp_spcBC
+></ListOfObject_spcAttr_spcDomain_spcImpExp_spcBC
+><ListOfObject_spcPort_spcImpExp_spcBC
+></ListOfObject_spcPort_spcImpExp_spcBC
+><ListOfObject_spcPort_spcDomain_spcImpExp_spcBC
+></ListOfObject_spcPort_spcDomain_spcImpExp_spcBC
+><ListOfObject_spcResources_spcImpExp_spcBC
+></ListOfObject_spcResources_spcImpExp_spcBC
+><ListOfObject_spcLinked_spcItems_spcImpExp_spcBC
+></ListOfObject_spcLinked_spcItems_spcImpExp_spcBC
+><ListOfObject_spcUI_spcOption_spcImpExp_spcBC
+><Object_spcUI_spcOption_spcImpExp_spcBC
+ Resp_spcBU_spcName=""
+ First_spcVersion="7"
+ Last_spcVersion="999999999"
+ Option_spcType="High Interactive"
+ UI_spcFrame_spcType="Base Theme"
+ Resp_spcName=""
+ UI_spcControl_spcType="Product Theme"
+ UI_spcControl_spcName="Single Page Product Theme JS"
+ Option_spcName="Detalles"
+ UI_spcFrame_spcName="SIS OM base Theme With Auto Pricing OUI"
+ Orig_spcId="1-380ZZ"
+ Description=""
+ Sequence="1"
+></Object_spcUI_spcOption_spcImpExp_spcBC
+></ListOfObject_spcUI_spcOption_spcImpExp_spcBC
+><ListOfObject_spcUI_spcOption_spcResp_spcImpExp_spcBC
+></ListOfObject_spcUI_spcOption_spcResp_spcImpExp_spcBC
+><ListOfObject_spcUI_spcGroup_spcImpExp_spcBC
+><Object_spcUI_spcGroup_spcImpExp_spcBC
+ First_spcVersion="7"
+ Last_spcVersion="999999999"
+ UI_spcStyle_spcType="Group Style"
+ UI_spcStyle_spcName="Standard Group Theme OUI"
+ Parent_spcOption_spcOrig_spcId="1-380ZZ"
+ Orig_spcId="1-38100"
+ Description=""
+ Group_spcName="Detalles"
+ Sequence="1"
+><ListOfObject_spcUI_spcGroup_spcLang_spcImpExp_spcBC
+></ListOfObject_spcUI_spcGroup_spcLang_spcImpExp_spcBC
+></Object_spcUI_spcGroup_spcImpExp_spcBC
+></ListOfObject_spcUI_spcGroup_spcImpExp_spcBC
+><ListOfObject_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+><Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+ First_spcVersion="7"
+ Last_spcVersion="999999999"
+ Item_spcType="Attribute"
+ UI_spcStyle_spcType="Attribute Style"
+ UI_spcStyle_spcName="Text Box for Attribute JS"
+ UI_spcStyle_spcOption_spcType="High Interactive"
+ UI_spcStyle_spcSpec="eCfgControlAttributeTextJS.swt"
+ Item_spcPath1="Velocidad Bajada al 100%"
+ Item_spcPath2=""
+ Orig_spcId="1-38103"
+ Parent_spcGroup_spcOrig_spcId="1-38100"
+ Item_spcName="Velocidad Bajada al 100%"
+ Sequence="3"
+></Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+><Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+ First_spcVersion="9"
+ Last_spcVersion="999999999"
+ Item_spcType="Attribute"
+ UI_spcStyle_spcType="Attribute Style"
+ UI_spcStyle_spcName="Text Box for Attribute JS"
+ UI_spcStyle_spcOption_spcType="High Interactive"
+ UI_spcStyle_spcSpec="eCfgControlAttributeTextJS.swt"
+ Item_spcPath1="Maxima Velocidad"
+ Item_spcPath2=""
+ Orig_spcId="1-38101"
+ Parent_spcGroup_spcOrig_spcId="1-38100"
+ Item_spcName="Maxima Velocidad"
+ Sequence="2"
+></Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+><Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+ First_spcVersion="9"
+ Last_spcVersion="999999999"
+ Item_spcType="Attribute"
+ UI_spcStyle_spcType="Attribute Style"
+ UI_spcStyle_spcName="Text Box for Attribute JS"
+ UI_spcStyle_spcOption_spcType="High Interactive"
+ UI_spcStyle_spcSpec="eCfgControlAttributeTextJS.swt"
+ Item_spcPath1="Redes Sociales"
+ Item_spcPath2=""
+ Orig_spcId="1-38102"
+ Parent_spcGroup_spcOrig_spcId="1-38100"
+ Item_spcName="Redes Sociales"
+ Sequence="1"
+></Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+><Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+ First_spcVersion="9"
+ Last_spcVersion="999999999"
+ Item_spcType="Attribute"
+ UI_spcStyle_spcType="Attribute Style"
+ UI_spcStyle_spcName="Text Box for Attribute JS"
+ UI_spcStyle_spcOption_spcType="High Interactive"
+ UI_spcStyle_spcSpec="eCfgControlAttributeTextJS.swt"
+ Item_spcPath1="Velocidad Subida al 100%"
+ Item_spcPath2=""
+ Orig_spcId="1-38105"
+ Parent_spcGroup_spcOrig_spcId="1-38100"
+ Item_spcName="Velocidad Subida al 100%"
+ Sequence="4"
+></Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+><Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+ First_spcVersion="9"
+ Last_spcVersion="999999999"
+ Item_spcType="Attribute"
+ UI_spcStyle_spcType="Attribute Style"
+ UI_spcStyle_spcName="Text Box for Attribute JS"
+ UI_spcStyle_spcOption_spcType="High Interactive"
+ UI_spcStyle_spcSpec="eCfgControlAttributeTextJS.swt"
+ Item_spcPath1="Velocidad Bajada al 150%"
+ Item_spcPath2=""
+ Orig_spcId="1-AZ4YJ"
+ Parent_spcGroup_spcOrig_spcId="1-38100"
+ Item_spcName="Velocidad Bajada al 150%"
+ Sequence="5"
+></Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+><Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+ First_spcVersion="9"
+ Last_spcVersion="999999999"
+ Item_spcType="Attribute"
+ UI_spcStyle_spcType="Attribute Style"
+ UI_spcStyle_spcName="Text Box for Attribute JS"
+ UI_spcStyle_spcOption_spcType="High Interactive"
+ UI_spcStyle_spcSpec="eCfgControlAttributeTextJS.swt"
+ Item_spcPath1="Velocidad Bajada al 200%"
+ Item_spcPath2=""
+ Orig_spcId="1-AZ4YK"
+ Parent_spcGroup_spcOrig_spcId="1-38100"
+ Item_spcName="Velocidad Bajada al 200%"
+ Sequence="7"
+></Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+><Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+ First_spcVersion="9"
+ Last_spcVersion="999999999"
+ Item_spcType="Attribute"
+ UI_spcStyle_spcType="Attribute Style"
+ UI_spcStyle_spcName="Text Box for Attribute JS"
+ UI_spcStyle_spcOption_spcType="High Interactive"
+ UI_spcStyle_spcSpec="eCfgControlAttributeTextJS.swt"
+ Item_spcPath1="Velocidad Subida al 150%"
+ Item_spcPath2=""
+ Orig_spcId="1-AZ4YL"
+ Parent_spcGroup_spcOrig_spcId="1-38100"
+ Item_spcName="Velocidad Subida al 150%"
+ Sequence="6"
+></Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+><Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+ First_spcVersion="9"
+ Last_spcVersion="999999999"
+ Item_spcType="Attribute"
+ UI_spcStyle_spcType="Attribute Style"
+ UI_spcStyle_spcName="Text Box for Attribute JS"
+ UI_spcStyle_spcOption_spcType="High Interactive"
+ UI_spcStyle_spcSpec="eCfgControlAttributeTextJS.swt"
+ Item_spcPath1="Velocidad Subida al 200%"
+ Item_spcPath2=""
+ Orig_spcId="1-AZ4YM"
+ Parent_spcGroup_spcOrig_spcId="1-38100"
+ Item_spcName="Velocidad Subida al 200%"
+ Sequence="8"
+></Object_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+></ListOfObject_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+><ListOfObject_spcUI_spcProperties_spcImpExp_spcBC
+></ListOfObject_spcUI_spcProperties_spcImpExp_spcBC
+><ListOfObject_spcScripts_spcImpExp_spcBC
+></ListOfObject_spcScripts_spcImpExp_spcBC
+><ListOfObject_spcRules_spcImpExp_spcBC
+></ListOfObject_spcRules_spcImpExp_spcBC
+><ListOfObject_spcRule_spcNodes_spcImpExp_spcBC
+></ListOfObject_spcRule_spcNodes_spcImpExp_spcBC
+></VOD_spcImpExp_spcBC
+></ListOfISS_spcClass_spcDef_spcImpExp
+></SiebelMessage
+></PropertySet
+><PropertySet
+ ErrorContextIntComp=""
+ ErrorContextSearchSpec=""
+ OMErrorCode=""
+ OMErrorSymbol=""
+ ErrorCode="0x0"
+ ErrorSymbol=""
+ NumOutputObjects="1"
+><SiebelMessage
+ MessageId="1-EVUR3"
+ MessageType="Integration Object"
+ IntObjectName="ISS Prod Def ImpExp"
+ IntObjectFormat="Siebel Hierarchical"
+><ListOfISS_spcProd_spcDef_spcImpExp
+><VOD_spcImpExp_spcBC
+ VOD_spcObject_spcNum="1-2TWO9"
+ VOD_spcName="Datos 8 GB"
+ Object_spcId="1-3K5GO4S"
+ VOD_spcType="ISS_PROD_DEF"
+ Description=""
+><ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+></ListOfVOD_spcHead_spcLang_spcImpExp_spcBC
+><ListOfVOD_spcVersions_spcImpExp_spcBC
+><VOD_spcVersions_spcImpExp_spcBC
+ Active_spcFlg="Y"
+ Released_spcFlag="Y"
+ Comments=""
+ Required_spcStart_spcDate="01/05/2017 16:14:28"
+ Required_spcEnd_spcDate=""
+ Version="1"
+ Version_spcId="1-3K5GQD4"
+></VOD_spcVersions_spcImpExp_spcBC
+></ListOfVOD_spcVersions_spcImpExp_spcBC
+><ListOfObject_spcDef_spcImpExp_spcBC
+><Object_spcDef_spcImpExp_spcBC
+ Ancestor_spcVersion=""
+ First_spcVersion="1"
+ Last_spcVersion="999999999"
+ Name_spcVer="0"
+ Ancestor_spcName="Data Mobile_Class"
+ Ancestor_spcObj_spcNum="1-1MSXTY"
+ Description_spcVer=""
+ Post_spcPick_spcCD=""
+ XA_spcIntegration_spcId=""
+ SPN_spcDefinition_spcName=""
+ Parametric_spcSearch_spcFlg=""
+ Orig_spcId="1-2TWOB"
+ Pre_spcPick_spcCD=""
+><ListOfObject_spcDef_spcLang_spcImpExp_spcBC
+></ListOfObject_spcDef_spcLang_spcImpExp_spcBC
+></Object_spcDef_spcImpExp_spcBC
+></ListOfObject_spcDef_spcImpExp_spcBC
+><ListOfObject_spcArrt_spcImpExp_spcBC
+></ListOfObject_spcArrt_spcImpExp_spcBC
+><ListOfObject_spcAttr_spcDomain_spcImpExp_spcBC
+></ListOfObject_spcAttr_spcDomain_spcImpExp_spcBC
+><ListOfObject_spcPort_spcImpExp_spcBC
+></ListOfObject_spcPort_spcImpExp_spcBC
+><ListOfObject_spcPort_spcDomain_spcImpExp_spcBC
+></ListOfObject_spcPort_spcDomain_spcImpExp_spcBC
+><ListOfObject_spcResources_spcImpExp_spcBC
+></ListOfObject_spcResources_spcImpExp_spcBC
+><ListOfObject_spcLinked_spcItems_spcImpExp_spcBC
+></ListOfObject_spcLinked_spcItems_spcImpExp_spcBC
+><ListOfObject_spcUI_spcOption_spcImpExp_spcBC
+></ListOfObject_spcUI_spcOption_spcImpExp_spcBC
+><ListOfObject_spcUI_spcOption_spcResp_spcImpExp_spcBC
+></ListOfObject_spcUI_spcOption_spcResp_spcImpExp_spcBC
+><ListOfObject_spcUI_spcGroup_spcImpExp_spcBC
+></ListOfObject_spcUI_spcGroup_spcImpExp_spcBC
+><ListOfObject_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+></ListOfObject_spcUI_spcGroup_spcItems_spcImpExp_spcBC
+><ListOfObject_spcUI_spcProperties_spcImpExp_spcBC
+></ListOfObject_spcUI_spcProperties_spcImpExp_spcBC
+><ListOfObject_spcScripts_spcImpExp_spcBC
+></ListOfObject_spcScripts_spcImpExp_spcBC
+><ListOfObject_spcRules_spcImpExp_spcBC
+></ListOfObject_spcRules_spcImpExp_spcBC
+><ListOfObject_spcRule_spcNodes_spcImpExp_spcBC
+></ListOfObject_spcRule_spcNodes_spcImpExp_spcBC
+><ListOfObject_spcProduct_spcImpExp_spcBC
+><Object_spcProduct_spcImpExp_spcBC
+ Featured_spcFlag="N"
+ IntegrationId=""
+ Pricing_spcCommit_spcType="Committed"
+ OCS_spcAutoinstalable=""
+ Part_spcNumber="DATOS08GB"
+ Unit_spcof_spcMeasure=""
+ Product_spcDef_spcType_spcCode="Customizable"
+ OCS_spcFamilia="Plan"
+ Serialized=""
+ Product_spcName="Datos 8 GB"
+ Vendor_spcName=""
+ Status="Active"
+ Sales_spcService_spcFlag="N"
+ OCS_spcRequiere_spcAutorizacion=""
+ Payment_spcType=""
+ Billable_spcFlag="Y"
+ Org_spcName="Default Organization"
+ Tool_spcFlag=""
+ Sales_spcProduct_spcFlag="Y"
+ Product_spcType="Product"
+ Position_spcBill_spcProduct_spcFlag="N"
+ Orderable_spcFlag="Y"
+ Inclusive_spcEligibility_spcFlag="N"
+ Dynamic_spcDiscount_spcMethod="Amount"
+ OCS_spcPrecio_spcreferencial=""
+ Type=""
+ Prod_spcId="1-2TWO9"
+ End_spcDate=""
+ Billing_spcType="Subscription"
+ Billing_spcService_spcType="/service/telco/gsm/data"
+ Service_spcInstance="N"
+ Price_spcType="One-Time"
+ External_spcInventory_spcSystem_spcRef=""
+ OCS_spcPago_spcUp_spcFront=""
+ OCS_spcCategoria_spcDetallada="Producto Principal"
+ Auto_spcExplode_spcFlag="N"
+ Promotion_spcType=""
+ OCS_spcNivel_spcEmpaquetado=""
+ Ship_spcFlag="N"
+ Service_spcFlag="N"
+ Special_spcRating_spcMax_spcItems=""
+ Pre_spcPick_spcCD="N"
+ Description="Datos 8 GB"
+ Start_spcDate=""
+ Special_spcRating_spcType=""
+ Fulfillment_spcItem_spcCode="Data Mobile_Class"
+ Track_spcAs_spcAsset_spcFlag="Y"
+ OCS_spcSubfamilia=""
+ OCS_spcPeso_spcPromocion=""
+ OCS_spcEvaluable=""
+><ListOfObject_spcProduct_spcBu_spcImpExp_spcBC
+><Object_spcProduct_spcBu_spcImpExp_spcBC
+ Unit_spcof_spcMeasure=""
+ Active_spcFlag="Y"
+ Prod_spcInt_spcName="Datos 8 GB"
+ Org_spcName="Default Organization"
+ Orderable_spcFlag="Y"
+ Org_spcId="0-R9NH"
+></Object_spcProduct_spcBu_spcImpExp_spcBC
+></ListOfObject_spcProduct_spcBu_spcImpExp_spcBC
+></Object_spcProduct_spcImpExp_spcBC
+></ListOfObject_spcProduct_spcImpExp_spcBC
+></VOD_spcImpExp_spcBC
+></ListOfISS_spcProd_spcDef_spcImpExp
+></SiebelMessage
+></PropertySet
+></PropertySet
+>
